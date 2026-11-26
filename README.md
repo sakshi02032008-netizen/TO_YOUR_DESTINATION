@@ -35,14 +35,8 @@ destinations, view tour packages and submit travel inquiries.
 - Mobile: Below 768px
 - Small Mobile: Below 480px
 
-## How to Run
-1. Download or clone the repository.
-2. Open the project folder.
-3. Open index.html in your browser.
-4. Explore the website.
-
 ## Project Name
 To Your Destination
 
 ## Author
-Your Name
+Sakshi kumari
